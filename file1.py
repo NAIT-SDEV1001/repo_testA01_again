@@ -1,1 +1,1 @@
-print("Happy Friday!")
+print("Happy Friday!!")
